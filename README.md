@@ -10,8 +10,6 @@ Built with Bootstrap 5 and modern UI components, this template helps developers 
 
 https://kod-atolye.github.io/ka-ecommerce-admin-dashboard/
 
-https://kodatolye.com.tr/ucretsiz-urunler/ka-e-commerce-admin-dashboard/
-https://demo.kodatolye.com.tr/ka-e-commerce/
 ---
 
 ## Preview
@@ -116,6 +114,9 @@ Reselling, redistributing or publishing the template files as a paid product is 
 Kod Atölye  
 https://kodatolye.com.tr
 
+https://kodatolye.com.tr/ucretsiz-urunler/ka-e-commerce-admin-dashboard/
+
+https://demo.kodatolye.com.tr/ka-e-commerce/
 ---
 
 ⭐ If you find this project useful, please consider giving it a star on GitHub.
